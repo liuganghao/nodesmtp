@@ -1,27 +1,24 @@
 {
-  "name": "maildev",
-  "description": "SMTP Server and Web Interface for reading and testing emails during development",
+  "name": "nodesmtp",
+  "description": "SMTP Server for reading emails",
   "version": "0.14.0",
   "keywords": [
     "email",
-    "e-mail",
-    "mail",
+    "smtp",
+    "invoice",
     "mailcatcher"
   ],
-  "author": "Dan Farrelly",
-  "homepage": "http://djfarrelly.github.io/MailDev/",
+  "author": "liugh",
+  "homepage": "http://liuganghao.github.io/nodesmtp/",
   "maintainers": [
     {
-      "name": "Dan Farrelly",
-      "email": "daniel.j.farrelly@gmail.com"
+      "name": "liugh",
+      "email": "liuganghao@live.cn"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/djfarrelly/maildev.git"
-  },
-  "scripts": {
-    "test": "./node_modules/.bin/istanbul cover _mocha"
+    "url": "http://github.com/liuganghao/nodesmtp.git"
   },
   "main": "./index.js",
   "bin": {
