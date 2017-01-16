@@ -1,2 +1,2 @@
 # nodesmtp
-[![Build Status](https://api.travis-ci.org/liuganghao/nodesmtp.svg?branch=master)](https://api.travis-ci.org/liuganghao/nodesmtp)
+[![Build Status](https://api.travis-ci.org/liuganghao/nodesmtp.svg)](https://travis-ci.org/liuganghao/nodesmtp)
